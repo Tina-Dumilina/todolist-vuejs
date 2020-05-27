@@ -17,6 +17,9 @@
 - Возможность редактировать карточку.
 - Возможность переключать тему приложения на темную.
 
+## Потыкать функционал
+https://tina-dumilina.github.io/todolist-vuejs/
+
 ## Project setup
 ```
 npm install
